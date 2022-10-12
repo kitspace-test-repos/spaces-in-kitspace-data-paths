@@ -1,0 +1,7 @@
+multi:
+    aux-ps-cs:
+        summary: BB3 AUX-PS board (Crowd Supply edition)
+        color: green
+        gerbers: previous designs/aux-ps r3B3 (Crowd Supply edition)/Gerber files
+        bom: previous designs/aux-ps r3B3 (Crowd Supply edition)/BOM/1-click-bom.csv
+        readme: previous designs/aux-ps r3B3 (Crowd Supply edition)/README.md
